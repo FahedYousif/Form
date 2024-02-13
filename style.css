@@ -22,4 +22,15 @@ form input {
   color: white;
   padding: 5px 10px;
   flex-basis: 200px;
+  flex-grow: 1;
+}
+
+form button {
+  background-color: #01b87e;
+  color: white;
+  border: none;
+  cursor: pointer;
+  padding: 5px 10px;
+  flex-basis: 30px;
+  flex-grow: 1;
 }
